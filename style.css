@@ -51,8 +51,30 @@
 
 .servico-icone{
     width: 24px;
+    padding: 4px 12px;
 }
 
-.servico-div-icones{
+.servico-div{
     text-align: center;
+    padding: 16px 0;
+}
+
+.servico-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.servico-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: #242121;
+    text-align: center;
+}
+
+.rodape-imagem{
+    width: 60px;
+    padding: 12px 0;    
 }
