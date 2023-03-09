@@ -2,6 +2,7 @@
 *{/*seletor universal*/
     margin: 0;
     padding: 0;
+    font-family: 'Tilt Neon', cursive;
 }
 
 .cabecalho{
@@ -42,4 +43,16 @@
 
 .empresa-titulo{
     padding: 24px 0;
+}
+
+.servico-imagem{
+    width: 120px;
+}
+
+.servico-icone{
+    width: 24px;
+}
+
+.servico-div-icones{
+    text-align: center;
 }
